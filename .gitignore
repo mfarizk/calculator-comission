@@ -1,0 +1,10 @@
+.vscode
+venv/
+commission-calculator-frontend/.vscode
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+commission-calculator-frontend/node_modules
+commission-calculator-frontend/.pnp
+.pnp.js
