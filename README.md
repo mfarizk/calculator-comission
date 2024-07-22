@@ -10,7 +10,7 @@ Aplikasi ini membantu pengguna untuk menghitung komisi yang akan mereka terima s
 - Backend: Django
 - Frontend: React.js
 - Styling: Bootstrap
-- Grafik: Chart.js
+- Grafik: apexcharts.js
 
 ## Instalasi
 
@@ -55,7 +55,11 @@ Pastikan Anda sudah menginstal:
 
 2. Install dependencies
    ```bash
-   npm install
+   npm install react
+   npm install axios
+   npm install bootstrap
+   npm install react-router-dom
+   npm install apexcharts --save
    ```
 
 3. Jalankan aplikasi React
